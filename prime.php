@@ -18,3 +18,4 @@ if($flag == 1){
 }else{
     echo 'not prime';
 }
+
